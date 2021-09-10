@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="banner.jpg" width="100%"/>
-</p>
-
 <h2 align="center">Hi There!</h2>
 <p align="center">Welcome to my github profile</p>
 
@@ -25,3 +21,6 @@
 
 <br>
 
+<p align="center">
+    <img src="banner.jpg" width="100%"/>
+</p>
