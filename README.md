@@ -9,7 +9,7 @@
 -> ~/Portfolio git:(main) > ./start.sh
 ```
 
-<img align="left" src="img/1.pnh" height="222px"/>
+<img align="left" src="1.png" height="222px"/>
 
 ```csharp
     Human Information
