@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="banner.jpg" width="480px"/>
+    <img src="banner.jpg" width="100%"/>
 </p>
 
 <h2 align="center">Hi There!</h2>
-<p align="center">My name is Sohan and welcome to my github profile</p>
+<p align="center">Welcome to my github profile</p>
 
 ```zsh
 -> ~/Portfolio git:(main) > ./start.sh
