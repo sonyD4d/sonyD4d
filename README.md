@@ -1,10 +1,6 @@
 <h2 align="center">Hi There!</h2>
 <p align="center">Welcome to my github profile</p>
 
-```zsh
--> ~/Portfolio git:(main) > ./start.sh
-```
-
 <img align="left" src="1.png" height="222px"/>
 
 ```csharp
