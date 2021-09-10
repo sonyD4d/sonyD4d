@@ -7,7 +7,6 @@
     Human Information
     ------------------------------------------
     Name: Sohan
-    Lastname: K R
     Nickname: sony
     Gender: Male
     Age: 23
