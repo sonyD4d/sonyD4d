@@ -58,7 +58,6 @@ sony@github:~$ profiles --help
             https://www.kaggle.com/sonyd4d
       - LinkedIn :
             https://www.linkedin.com/in/sohan-kr/
-            [Link text Here](https://link-url-here.org)
             
             
 ```  
