@@ -3,21 +3,22 @@
 ```csharp
 sony@github:~$ man about-me
 ```
-
+<div>
 <img align="left" src="pacman.svg" height="222px"/>
 
-```
 
-
-      - ⭐️ Trying to make machines learn through math and code 
-      - ✏️ Currently pursuing masters in Machine Learning and Data analytics
-      - 🔭 Learning full-stack dev for deploying my ML models 
-      - 🚀 Love space and aliens
-      - ✨ I like to solve puzzels,play games and read stuff about conspiracy theories
-      - 💬 Ask me about anything, I would like to answer.
-      
-      
-```
+<p>
+      <br>
+      <br>
+      - ⭐️ Trying to make machines learn through math and code <br>
+      - ✏️ Currently pursuing masters in Machine Learning and Data analytics <br>
+      - 🔭 Learning full-stack dev for deploying my ML models <br>
+      - 🚀 Love space and aliens <br>
+      - ✨ I like to solve puzzels,play games and read stuff about conspiracy theories <br>
+      - 💬 Ask me about anything, I would like to answer 
+      <br>
+      <br>
+</p>  
       
       
    
