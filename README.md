@@ -1,9 +1,11 @@
 <h2 align="center">Hi There!</h2>
 <p align="center">Welcome to my github profile</p>
 
-<img align="left" src="1.png" height="222px"/>
+<img align="left" src="pacman.svg" height="222px"/>
 
 ```csharp
+
+   
     Human Information
     ------------------------------------------
     Name: Sohan
@@ -12,6 +14,8 @@
     Age: 23
     Hobbies: Coding, Gaming, Music, Gunpla
     Languages: English, Hindi, Kannada
+    
+    
 ```
 
 <br>
