@@ -9,8 +9,8 @@ sony@github:~$ man about-me
 ```
 
       - ⭐️ Trying to make machines learn through math and code 
-      - ✏️ Currently pursuing masters in Machine Learning and Data analytics
-      - 🔭 Learning full-stack dev for deploying my ML models 
+      - ✏️ Masters in Machine Learning and Data analytics
+      - 🔭 MLE and Full-stack dev  
       - 🚀 Love space and aliens
       - ✨ I like to solve puzzels,play games and read stuff about conspiracy theories
       - 💬 Ask me about anything, I would like to answer.
@@ -35,7 +35,7 @@ sony@github:~$ tools --help
             MySql , InfulxDB , HDFS , druid
       - Tools :
             - ML     : tensorflow,keras,sklearn,sns,mathplotlib,pandas
-            - Web    : HTTP,pHp,django,JSON,XML
+            - Web    : Spring,Mysql,JPA
             - System : Kafka,Rest APIs,AWS,IoT
       - OS : 
             Liunx(debian) , Windows 11
